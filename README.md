@@ -21,6 +21,6 @@ To use this script, choose one of the following options to get started:
 
 ## Usage
 
-- php-cli: `php bin/autoindex prestashop:add:index (/your/module/path)`
+- php-cli: `php bin/autoindex (/your/module/path)`
 
 If you want to customize the "index.php" file, edit it in "[sources](https://github.com/PrestaShopCorp/autoindex/assets/)" directory
